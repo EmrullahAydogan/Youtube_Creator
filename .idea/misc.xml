@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\mega8\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="1c0955dc-3faf-4224-aef3-b551301c6f56" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (Youtube_Creator)" project-jdk-type="Python SDK" />
+</project>
